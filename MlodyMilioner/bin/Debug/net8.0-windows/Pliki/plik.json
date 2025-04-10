@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "Description": "Rynki spadły o 5%. Co robisz?",
+    "Points": 10.5,
+    "AnsA": "Zainwestuj więcej",
+    "AnsB": "Wycofaj środki",
+    "AnsCorrect": "A"
+  },
+  {
+    "Id": 2,
+    "Description": "Inflacja wzrosła do 7%. Jak reagujesz?",
+    "Points": 12,
+    "AnsA": "Oszczędzasz więcej",
+    "AnsB": "Inwestujesz w aktywa odporne na inflację",
+    "AnsCorrect": "B"
+  },
+  {
+    "Id": 3,
+    "Description": "Bank centralny podniósł stopy procentowe. Co robisz?",
+    "Points": 9.75,
+    "AnsA": "Sprzedajesz akcje",
+    "AnsB": "Kupujesz obligacje",
+    "AnsCorrect": "B"
+  },
+  {
+    "Id": 4,
+    "Description": "Twój portfel inwestycyjny jest mocno skoncentrowany na jednej branży. Co robisz?",
+    "Points": 12.4,
+    "AnsA": "Dywersyfikujesz inwestycje",
+    "AnsB": "Nie robisz nic",
+    "AnsCorrect": "A"
+  },
+  {
+    "Id": 5,
+    "Description": "Na rynku pojawiły się plotki o możliwym kryzysie gospodarczym. Jak reagujesz?",
+    "Points": 7.9,
+    "AnsA": "Dokupujesz aktywa w niskiej cenie",
+    "AnsB": "Wycofujesz się na bezpieczne pozycje",
+    "AnsCorrect": "A"
+  },
+  {
+    "Id": 6,
+    "Description": "Firma, w którą zainwestowałeś/aś, ogłosiła nieoczekiwane straty. Co robisz?",
+    "Points": 11.3,
+    "AnsA": "Sprzedajesz akcje firmy",
+    "AnsB": "Czekasz na odbicie rynku",
+    "AnsCorrect": "B"
+  },
+  {
+    "Id": 7,
+    "Description": "Wprowadzenie nowego podatku od zysków kapitałowych. Jak się przygotowujesz?",
+    "Points": 6.45,
+    "AnsA": "Przenosisz inwestycje na konta wolne od podatku",
+    "AnsB": "Nie zmieniasz strategii",
+    "AnsCorrect": "A"
+  },
+  {
+    "Id": 8,
+    "Description": "Pojawia się nowa, ryzykowna możliwość inwestycji o potencjalnie wysokich zyskach. Co robisz?",
+    "Points": 14.7,
+    "AnsA": "Inwestujesz ostrożnie niewielką kwotę",
+    "AnsB": "Unikasz ryzyka",
+    "AnsCorrect": "A"
+  },
+  {
+    "Id": 9,
+    "Description": "Twoje inwestycje osiągnęły 15% zysku w krótkim czasie. Co robisz?",
+    "Points": 5.8,
+    "AnsA": "Sprzedajesz, aby zrealizować zyski",
+    "AnsB": "Pozwalasz inwestycjom dalej rosnąć",
+    "AnsCorrect": "B"
+  },
+  {
+    "Id": 10,
+    "Description": "Sektor technologiczny przeżywa nagły wzrost. Jak reagujesz?",
+    "Points": 13.2,
+    "AnsA": "Kupujesz więcej akcji technologicznych",
+    "AnsB": "Trzymasz się swojej strategii dywersyfikacji",
+    "AnsCorrect": "B"
+  },
+  {
+    "Id": 11,
+    "Description": "Rząd ogłasza plan zwiększenia wydatków na infrastrukturę. Co robisz?",
+    "Points": 9.3,
+    "AnsA": "Inwestujesz w firmy budowlane",
+    "AnsB": "Unikasz sektorów ryzykownych",
+    "AnsCorrect": "A"
+  },
+  {
+    "Id": 12,
+    "Description": "Twoja inwestycja w startup zaczyna przynosić straty. Co robisz?",
+    "Points": 12.8,
+    "AnsA": "Rezygnujesz z inwestycji",
+    "AnsB": "Dokładasz środki, wierząc w przyszły sukces",
+    "AnsCorrect": "B"
+  },
+  {
+    "Id": 13,
+    "Description": "Nowe technologie zmieniają sposób prowadzenia biznesu w wybranej branży. Jak reagujesz?",
+    "Points": 10.1,
+    "AnsA": "Inwestujesz w nowe technologie",
+    "AnsB": "Trzymasz się tradycyjnych firm",
+    "AnsCorrect": "A"
+  },
+  {
+    "Id": 14,
+    "Description": "Kurs waluty, w której posiadasz środki, gwałtownie spada. Co robisz?",
+    "Points": 8.6,
+    "AnsA": "Sprzedajesz środki w tej walucie",
+    "AnsB": "Kupujesz aktywa w innej walucie",
+    "AnsCorrect": "B"
+  },
+  {
+    "Id": 15,
+    "Description": "Rynki finansowe są niestabilne. Jak reagujesz?",
+    "Points": 7.4,
+    "AnsA": "Przenosisz środki do bezpiecznych aktywów",
+    "AnsB": "Nie zmieniasz strategii, licząc na stabilizację",
+    "AnsCorrect": "A"
+  }
+]

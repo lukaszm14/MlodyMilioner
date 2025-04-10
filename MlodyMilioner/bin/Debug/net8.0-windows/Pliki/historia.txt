@@ -1,0 +1,14 @@
+13.01.2025 02:45:27
+   Tura:  1
+   Opis:  Inflacja wzrosła do 7%. Jak reagujesz?
+   Odpowiedź:  Oszczędzasz więcej
+   Stan konta:  1092,94
+   Przychód:  92,94
+
+13.01.2025 02:45:29
+   Tura:  2
+   Opis:  Bank centralny podniósł stopy procentowe. Co robisz?
+   Odpowiedź:  Sprzedajesz akcje
+   Stan konta:  1181,54
+   Przychód:  88,60
+

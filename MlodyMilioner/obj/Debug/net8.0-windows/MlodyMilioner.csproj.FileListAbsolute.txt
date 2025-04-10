@@ -1,0 +1,119 @@
+C:\Users\mlyne\OneDrive\Pulpit\Projekt_JPWP\AAA_kody\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\MlodyMilioner.exe
+C:\Users\mlyne\OneDrive\Pulpit\Projekt_JPWP\AAA_kody\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\MlodyMilioner.deps.json
+C:\Users\mlyne\OneDrive\Pulpit\Projekt_JPWP\AAA_kody\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\MlodyMilioner.runtimeconfig.json
+C:\Users\mlyne\OneDrive\Pulpit\Projekt_JPWP\AAA_kody\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\MlodyMilioner.dll
+C:\Users\mlyne\OneDrive\Pulpit\Projekt_JPWP\AAA_kody\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\MlodyMilioner.pdb
+C:\Users\mlyne\OneDrive\Pulpit\Projekt_JPWP\AAA_kody\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.csproj.GenerateResource.cache
+C:\Users\mlyne\OneDrive\Pulpit\Projekt_JPWP\AAA_kody\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlyne\OneDrive\Pulpit\Projekt_JPWP\AAA_kody\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.AssemblyInfoInputs.cache
+C:\Users\mlyne\OneDrive\Pulpit\Projekt_JPWP\AAA_kody\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.AssemblyInfo.cs
+C:\Users\mlyne\OneDrive\Pulpit\Projekt_JPWP\AAA_kody\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.csproj.CoreCompileInputs.cache
+C:\Users\mlyne\OneDrive\Pulpit\Projekt_JPWP\AAA_kody\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.dll
+C:\Users\mlyne\OneDrive\Pulpit\Projekt_JPWP\AAA_kody\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\refint\MlodyMilioner.dll
+C:\Users\mlyne\OneDrive\Pulpit\Projekt_JPWP\AAA_kody\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.pdb
+C:\Users\mlyne\OneDrive\Pulpit\Projekt_JPWP\AAA_kody\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.genruntimeconfig.cache
+C:\Users\mlyne\OneDrive\Pulpit\Projekt_JPWP\AAA_kody\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\ref\MlodyMilioner.dll
+C:\Users\mlyne\OneDrive\Pulpit\Projekt_JPWP\AAA_kody\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.Start.resources
+C:\Users\mlyne\OneDrive\Pulpit\Projekt_JPWP\AAA_kody\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.Gra.resources
+C:\Users\mlyne\OneDrive\Pulpit\Projekt_JPWP\AAA_kody\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.InicjalizacjaGry.resources
+C:\Users\mlyne\OneDrive\Pulpit\Projekt_JPWP\AAA_kody\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.Koniec.resources
+C:\Users\mlyne\OneDrive\Pulpit\Projekt_JPWP\AAA_kody\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.Wyjscie.resources
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\MlodyMilioner.exe
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\MlodyMilioner.deps.json
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\MlodyMilioner.runtimeconfig.json
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\MlodyMilioner.dll
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\MlodyMilioner.pdb
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.Gra.resources
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.InicjalizacjaGry.resources
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.Koniec.resources
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.Start.resources
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.Wyjscie.resources
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.csproj.GenerateResource.cache
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.AssemblyInfoInputs.cache
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.AssemblyInfo.cs
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.csproj.CoreCompileInputs.cache
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.dll
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\refint\MlodyMilioner.dll
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.pdb
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.genruntimeconfig.cache
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\ref\MlodyMilioner.dll
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\Docfx.Common.dll
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\Docfx.Plugins.dll
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\Docfx.YamlSerialization.dll
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\Spectre.Console.dll
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\System.Collections.Immutable.dll
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\YamlDotNet.dll
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.csproj.AssemblyReference.cache
+C:\Users\mlyne\OneDrive\Pulpit\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMil.1341433C.Up2Date
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\MlodyMilioner.exe
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\MlodyMilioner.deps.json
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\MlodyMilioner.runtimeconfig.json
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\MlodyMilioner.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\MlodyMilioner.pdb
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\Docfx.Common.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\Docfx.Plugins.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\Docfx.YamlSerialization.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\Spectre.Console.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\System.Collections.Immutable.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\YamlDotNet.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.csproj.AssemblyReference.cache
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.Gra.resources
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.InicjalizacjaGry.resources
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.Koniec.resources
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.Start.resources
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.Wyjscie.resources
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.csproj.GenerateResource.cache
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.AssemblyInfoInputs.cache
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.AssemblyInfo.cs
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.csproj.CoreCompileInputs.cache
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMil.1341433C.Up2Date
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\refint\MlodyMilioner.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.pdb
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.genruntimeconfig.cache
+C:\Users\mlyne\OneDrive\Pulpit\Nowy folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\ref\MlodyMilioner.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\MlodyMilioner.exe
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\MlodyMilioner.deps.json
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\MlodyMilioner.runtimeconfig.json
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\MlodyMilioner.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\MlodyMilioner.pdb
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\Docfx.Common.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\Docfx.Plugins.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\Docfx.YamlSerialization.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\Spectre.Console.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\System.Collections.Immutable.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\YamlDotNet.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.csproj.AssemblyReference.cache
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.Gra.resources
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.InicjalizacjaGry.resources
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.Koniec.resources
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.Start.resources
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.Wyjscie.resources
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.csproj.GenerateResource.cache
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.AssemblyInfoInputs.cache
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.AssemblyInfo.cs
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.csproj.CoreCompileInputs.cache
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMil.1341433C.Up2Date
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\refint\MlodyMilioner.dll
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.pdb
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\MlodyMilioner.genruntimeconfig.cache
+C:\Users\mlyne\OneDrive\Pulpit\Nowy_folder\MlodyMilioner\MlodyMilioner\obj\Debug\net8.0-windows\ref\MlodyMilioner.dll
